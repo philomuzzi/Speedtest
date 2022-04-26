@@ -252,8 +252,8 @@ runtest() {
 		start=$(date +%s) 
 
 		 speed_test '4515' '广东深圳' '移动'
-         speed_test '16192' '广东深圳' '联通'
-		 speed_test '32155' '上海' '移动'
+                 speed_test '16192' '广东深圳' '联通'
+		 speed_test '32155' '香港' '移动'
 		 speed_test '27594' '广东广州５Ｇ' '电信'
 		 speed_test '26678' '广东广州５Ｇ' '联通'
 		 speed_test '31520' '广东中山' '移动'
