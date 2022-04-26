@@ -1,7 +1,7 @@
 # Speedtest
 **中国三大运营商网络宽频测试脚本**
 
- ![demo.png](https://raw.githubusercontent.com/sunpma/Speedtest/master/demo.png)
+ ![demo.png](https://raw.githubusercontent.com/philomuzzi/Speedtest/master/demo.png)
 
 ### 测试命令
 ```bash
@@ -9,7 +9,7 @@ bash <(curl -Lso- https://git.io/J1SEh)
 
 ## 或者
 
-bash <(curl -Lso- https://raw.githubusercontent.com/sunpma/Speedtest/master/speedtest.sh)
+bash <(curl -Lso- https://raw.githubusercontent.com/philomuzzi/Speedtest/master/speedtest.sh)
 ```
 
 ### 国内使用
