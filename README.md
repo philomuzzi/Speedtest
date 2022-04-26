@@ -5,10 +5,6 @@
 
 ### 测试命令
 ```bash
-bash <(curl -Lso- https://git.io/J1SEh)
-
-## 或者
-
 bash <(curl -Lso- https://raw.githubusercontent.com/philomuzzi/Speedtest/master/speedtest.sh)
 ```
 
