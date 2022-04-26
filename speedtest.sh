@@ -274,7 +274,6 @@ runtest() {
 		# speed_test '34115' '天津５Ｇ' '电信'
 		# speed_test '41355' '河南郑州５Ｇ' '电信'
 		# speed_test '34988' '辽宁沈阳５Ｇ' '电信'
-
 		# speed_test '21005' '上海' '联通'
 		# speed_test '24447' '上海５Ｇ' '联通'
 		# speed_test '5103' '云南昆明' '联通'
@@ -299,7 +298,6 @@ runtest() {
 		# speed_test '4884' '福建福州' '联通'
 		# speed_test '31985' '重庆' '联通'
 		# speed_test '4863' '陕西西安' '联通'
-
 		# speed_test '30154' '上海' '移动'
 		# speed_test '25637' '上海５Ｇ' '移动'
 		# speed_test '26728' '云南昆明' '移动'
